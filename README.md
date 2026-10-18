@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:7F5AF0,100:2CB67D&height=210&section=header&text=Nazrul%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20%40codinglabe&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="codinglabe header banner" />
+<img src="./assets/banner.png" width="100%" alt="Nazrul Islam - Full-Stack Web Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nazrul+%F0%9F%91%8B;Laravel+%26+React+Full-Stack+Developer;Building+Laravel+APIs+%26+admin+panels;Crafting+React+%26+Next.js+frontends;Real-time+apps+with+Socket.IO+%26+WebRTC" alt="Typing intro" />
